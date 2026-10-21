@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LabSevenRecyclerViewS" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.LabSevenRecyclerViewS" parent="Base.Theme.LabSevenRecyclerViewS" />
+
+    <!-- Theme with an ActionBar, used by CourseDetailActivity so that setTitle() is visible -->
+    <style name="Theme.LabSevenRecyclerViewS.Detail" parent="Theme.Material3.DayNight" />
+</resources>
